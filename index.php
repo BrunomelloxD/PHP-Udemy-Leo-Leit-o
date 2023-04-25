@@ -292,6 +292,21 @@
                                 Função e Escopo
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=args_retorno">
+                                Argumentos e Retorno
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=palindromo">
+                                Desafio Palindromo
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=args_variaveis">
+                                Argumentos variáveis
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>

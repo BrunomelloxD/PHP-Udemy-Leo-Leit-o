@@ -9,7 +9,8 @@
 
     $variavel = 1;
     function trocarValor() {
-        $variavel = 2;
+        global $variavel;
+        $variavel = 3;
         echo "Durante a função: $variavel <br>";
     }
 
