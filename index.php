@@ -307,6 +307,46 @@
                                 Argumentos variáveis
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=arg_padrao">
+                                Argumento padrão
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=usando_tipos">
+                                Usando tipos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=anonimas">
+                                Funções Anonimas
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=closure_callable">
+                                Closure and Callable
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=recursividade">
+                                Recursividade
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=desafio_recursao">
+                                Desafio recursão
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=retornando_funcao">
+                                Retornando função
+                            </a>   
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=map_filter">
+                                Map and Filter
+                            </a>   
+                        </li>
                     </ul>
                 </div>
             </nav>
