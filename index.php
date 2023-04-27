@@ -340,12 +340,87 @@
                         <li>
                             <a href="exercicio.php?dir=funcoes&file=retornando_funcao">
                                 Retornando função
-                            </a>   
+                            </a>
                         </li>
                         <li>
                             <a href="exercicio.php?dir=funcoes&file=map_filter">
                                 Map and Filter
-                            </a>   
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo azul-escuro">
+                    <h3>8. Paradigma O.O.</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=classe">
+                                Primeira Classe
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=desafio_classe">
+                                Desafio Classe
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">
+                                Construtor e destrutor
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=heranca">
+                                Herença
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=visibilidade">
+                                Visibilidade
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=static">
+                                Membro estático
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=interface">
+                                Interface
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=abstract">
+                                Classe Abstrata
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=desafio_erros">
+                                Desafio Erros
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=final">
+                                Final
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=traits_01">
+                                Traits #01
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=traits_02">
+                                Traits #02
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=magic_methods">
+                                Magic Methods
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=polimorfismo">
+                                Polimorfismo
+                            </a>
                         </li>
                     </ul>
                 </div>
