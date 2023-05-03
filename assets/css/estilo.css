@@ -187,3 +187,11 @@ body {
 .modulo.roxo-escuro>h3 {
     background-color: #4a148c;
 }
+
+.modulo.laranja-escuro {
+    border: 2px solid #b71c1c
+}
+
+.modulo.laranja-escuro>h3 {
+    background-color: #b71c1c;
+}
