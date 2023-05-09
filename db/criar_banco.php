@@ -4,8 +4,24 @@
     require_once 'conexao.php';
 
     $conexao = novaConexao(null);
-    $sql = 'CREATE DATABASE curso_php';
+    $sql = 'CREATE DATABASE IF NOT EXISTS curso_php';
 
-    $conexao->query($sql);
+    $resultado = $conexao->query($sql);
+
+    if($resultado) {
+        echo "
+            <div class='alert alert-danger' role='alert'>
+                Success to connect to database! ✔️
+            </div>
+        ";
+    } else {
+        echo "
+            <script>
+                alert('Erro to connect to database! ❎ ' . $conexao->error)
+            </script>
+        ";
+        $conexao->close();
+    };
+    
     $conexao->close();
 ?>

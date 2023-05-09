@@ -34,17 +34,17 @@
         <ul>
             <li>
                 <a href="exercicio.php?dir=tipos&file=int">
-                    Tipo inteiro
+                    Tipo Inteiro
                 </a>
             </li>
             <li>
                 <a href="exercicio.php?dir=tipos&file=float">
-                    Tipo float
+                    Tipo Float
                 </a>
             </li>
             <li>
                 <a href="exercicio.php?dir=tipos&file=aritmetica">
-                    Operações aritmetica
+                    Operações Aritmetica
                 </a>
             </li>
             <li>
@@ -59,12 +59,12 @@
             </li>
             <li>
                 <a href="exercicio.php?dir=tipos&file=desafio_string">
-                    Desafio string
+                    Desafio String
                 </a>
             </li>
             <li>
                 <a href="exercicio.php?dir=tipos&file=booleano">
-                    Tipo booleano
+                    Tipo Booleano
                 </a>
             </li>
             <li>
@@ -79,12 +79,12 @@
         <ul>
             <li>
                 <a href="exercicio.php?dir=variaveis&file=basico">
-                    Básico variáveis
+                    Básico Variáveis
                 </a>
             </li>
             <li>
                 <a href="exercicio.php?dir=variaveis&file=desafio_equacao">
-                    Desafio equação
+                    Desafio Equação
                 </a>
             </li>
             <li>
@@ -99,7 +99,7 @@
             </li>
             <li>
                 <a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">
-                    Variáveis variáveis
+                    Variáveis Variáveis
                 </a>
             </li>
             <li>
@@ -119,12 +119,12 @@
         <ul>
             <li>
                 <a href="exercicio.php?dir=controle&file=if_else">
-                    If and else
+                    If and Else
                 </a>
             </li>
             <li>
                 <a href="exercicio.php?dir=controle&file=operadores_relacionais">
-                    Operadores relacionais
+                    Operadores Relacionais
                 </a>
             </li>
             <li>
@@ -194,7 +194,7 @@
             </li>
             <li>
                 <a href="exercicio.php?dir=array&file=mult">
-                    Array multidimensionais
+                    Array Multidimensionais
                 </a>
             </li>
             <li>
@@ -284,17 +284,17 @@
             </li>
             <li>
                 <a href="exercicio.php?dir=funcoes&file=args_variaveis">
-                    Argumentos variáveis
+                    Argumentos Variáveis
                 </a>
             </li>
             <li>
                 <a href="exercicio.php?dir=funcoes&file=arg_padrao">
-                    Argumento padrão
+                    Argumento Padrão
                 </a>
             </li>
             <li>
                 <a href="exercicio.php?dir=funcoes&file=usando_tipos">
-                    Usando tipos
+                    Usando Tipos
                 </a>
             </li>
             <li>
@@ -314,12 +314,12 @@
             </li>
             <li>
                 <a href="exercicio.php?dir=funcoes&file=desafio_recursao">
-                    Desafio recursão
+                    Desafio Recursão
                 </a>
             </li>
             <li>
                 <a href="exercicio.php?dir=funcoes&file=retornando_funcao">
-                    Retornando função
+                    Retornando Função
                 </a>
             </li>
             <li>
@@ -344,7 +344,7 @@
             </li>
             <li>
                 <a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">
-                    Construtor e destrutor
+                    Construtor e Destrutor
                 </a>
             </li>
             <li>
@@ -359,7 +359,7 @@
             </li>
             <li>
                 <a href="exercicio.php?dir=classes_objetos&file=static">
-                    Membro estático
+                    Membro Estático
                 </a>
             </li>
             <li>
@@ -414,7 +414,7 @@
             </li>
             <li>
                 <a href="exercicio.php?dir=includes&file=include_funcao">
-                    Include função
+                    Include Função
                 </a>
             </li>
             <li>
@@ -434,7 +434,7 @@
             </li>
             <li>
                 <a href="exercicio.php?dir=includes&file=desafio">
-                    Desáfio módulo
+                    Desáfio Módulo
                 </a>
             </li>
         </ul>
@@ -460,7 +460,7 @@
         </ul>
     </div>
     <div class="modulo verde">
-        <h3>11. Trat. de erro</h3>
+        <h3>11. Trat. de Erro</h3>
         <ul>
             <li>
                 <a href="exercicio.php?dir=tratamento_erro&file=try_catch">
@@ -469,7 +469,7 @@
             </li>
             <li>
                 <a href="exercicio.php?dir=tratamento_erro&file=erros_personalizados">
-                    Erros personalizados
+                    Erros Personalizados
                 </a>
             </li>
             <li>
@@ -485,11 +485,11 @@
         </ul>
     </div>
     <div class="modulo vermelho">
-        <h3>12. Trat. de erro</h3>
+        <h3>12. Trat. de Erro</h3>
         <ul>
             <li>
                 <a href="exercicio.php?dir=sessao&file=basico_sessao">
-                    Básico sessão
+                    Básico Sessão
                 </a>
             </li>
             <li>
@@ -549,7 +549,12 @@
         <ul>
             <li>
                 <a href="exercicio.php?dir=db&file=criar_banco">
-                    Criar banco
+                    Criar Banco
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=criar_tabela">
+                    Criar Tabela
                 </a>
             </li>
         </ul>
